@@ -33,5 +33,5 @@ easily up or down scale the amount of resources we use and pay for.
    - DevOps
 
 Some regions are paired and some services will use that pairing automatically: [pairing table](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure#azure-paired-regions)
-![img.png](img.png)
+![AzurePairingTable.png](AzurePairingTable.png)
 
